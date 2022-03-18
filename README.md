@@ -1,2 +1,2 @@
 # accident-detector
-deploy accidents
+deploy accidents with  IR
